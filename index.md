@@ -95,7 +95,7 @@ Dhakeswari Mills High School, Bandar, Narayanganj
 
 ## Certifications and Awards
 
-*   Machine Learning" by Stanford University
+*   "Machine Learning" by Stanford University
 *   Achieved 4th position on a programming contest hosted by DIIT
 *   Kaggle Competition - Toxic Comment Classification Challenge (top-50%) ([profile](https://www.kaggle.com/salmanhaydar))
 
@@ -105,7 +105,7 @@ Dhakeswari Mills High School, Bandar, Narayanganj
 *   Acting as a vice president of DIU Research and Journal taskforce in DIU Computer Programming Club (CPC)
 
 ## Contact
-S.O Road,Narayanganj,Dhaka,Bangladesh
-Cell: +8801834018687
-E-mail: salmanhaydar3@gmail.com
+S.O Road,Narayanganj,Dhaka,Bangladesh   
+Cell: +8801834018687   
+E-mail: salmanhaydar3@gmail.com   
 [LinkedIn](https://www.linkedin.com/in/mohammad-salman-haydar-429584126/)
