@@ -1,0 +1,8 @@
+title: Mohammad Salman Haydar
+description: A Data Enthusiast and Quick Learner
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-leap-day
+
+gems:
+  - jekyll-mentions
