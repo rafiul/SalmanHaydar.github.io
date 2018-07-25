@@ -2,12 +2,12 @@ S.O Road,Narayanganj,Dhaka ♦ Cell: +8801834018687 ♦ E-mail: salmanhaydar3@gm
 
 * * *
 
-#### Objective: 
+## Objective: 
 **Computer Science and Engineering graduate seeking employment in dynamic R&D software firm**  
 
 Astute student with proven time-management and collaborative skills developed through programming contest and volunteer engagements. Highly articulate individual, confident working with diverse cultures and situations in which cultural awareness and appreciation are integral. Strong academic background, maintaining above-average results.Knowledgeable and keen graduate with Computer Science and Engineering and some industry experience. Seeking opportunity to start a professional career with the long-term aim of working as a part of Data science team.  
 
-#### Key Skills:
+### Key Skills:
 
 
 *   Strong knowledge on Data Structure and Algorithm
