@@ -1,7 +1,7 @@
 title: Mohammad Salman Haydar
-description: A Data Enthusiast and Quick Learner
+description: A Data Enthusiast and Quick Learner   <a href="https://www.linkedin.com/in/mohammad-salman-haydar-429584126/" rel="some text">![Foo](./In-2C-14px.png)]</a>
 google_analytics: 
-show_downloads: false
+show_downloads: true
 theme: jekyll-theme-leap-day
 
 gems:
