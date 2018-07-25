@@ -1,7 +1,3 @@
-S.O Road,Narayanganj,Dhaka ♦ Cell: +8801834018687 ♦ E-mail: salmanhaydar3@gmail.com ♦ github: [https://github.com/SalmanHaydar](https://github.com/SalmanHaydar) ♦ [UVA Online Judge ID](http://uhunt.felix-halim.net/id/442552) ♦ [Linkedin](https://www.linkedin.com/in/mohammad-salman-haydar-429584126/)
-
-* * *
-
 ## Objective 
 **Computer Science and Engineering graduate seeking employment in dynamic R&D software firm**  
 
@@ -23,14 +19,10 @@ Astute student with proven time-management and collaborative skills developed th
 ## Technology  
 
 *   **Fluency:** C++, Python **Proficiency:** C, Java **Familiarity:** .NET(C#), MATLAB  
-    
 *   **Machine Learning Libraries:** TensorFlow, Keras, scikit-learn, PySpark  
-    
 *   **Type setting:** Latex  
-    
 *   **Version Controlling:** git  
     
-
 ## Projects
 
 
@@ -103,7 +95,7 @@ Dhakeswari Mills High School, Bandar, Narayanganj
 
 ## Certifications and Awards
 
-*   ["Machine Learning" by Stanford University](https://www.coursera.org/account/accomplishments/certificate/QCCX7MG2NNJQ)
+*   Machine Learning" by Stanford University
 *   Achieved 4th position on a programming contest hosted by DIIT
 *   Kaggle Competition - Toxic Comment Classification Challenge (top-50%) ([profile](https://www.kaggle.com/salmanhaydar))
 
@@ -111,3 +103,9 @@ Dhakeswari Mills High School, Bandar, Narayanganj
 
 *   Acting as an organizer on a group named ["DIU Research and Publication Group"](https://www.facebook.com/groups/diuresearch/)
 *   Acting as a vice president of DIU Research and Journal taskforce in DIU Computer Programming Club (CPC)
+
+## Contact
+S.O Road,Narayanganj,Dhaka,Bangladesh
+Cell: +8801834018687
+E-mail: salmanhaydar3@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mohammad-salman-haydar-429584126/)
